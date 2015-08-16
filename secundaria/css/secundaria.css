@@ -36,11 +36,13 @@ html, body {
 /* Typography
 =============================================================*/
 h1{
-    font-size: 32px;
+    font-size: 28px;
     font-family: 'OpenSans-Bold';
     font-weight: normal;
     text-shadow: 1px 1px 0 whitesmoke;
-    color: #A61D37; }
+    color: #A61D37;
+    margin-top: -5px;
+}
 h2{
     margin: 20px 0;
     font-family: 'OpenSans-Bold';
@@ -109,7 +111,7 @@ h6{}
     font-weight: normal;
     color: #666;
     font-size: 17px;
-    border: 2px solid #A61D37; 
+    border: 2px solid #A61D37;
     padding: 2px 7px 5px; }
 
 #login-button, #lost-button {
@@ -129,22 +131,35 @@ h6{}
 .title-text-slider {
     color:#A61D37; }
 
+i {
+color: #A61D37;
+font-weight: bold;
+}
 
+h1 {
+ margin-bottom: 8px;
+}
+h2 {
+margin: 27px 0;
+}
+.higher {
+font-size: 18px;
+font-weight: bold;
+}
+#filosofia .imageHolder {
+    margin-top: 33px;
+}
+#filosofia .imageHolder img {
+  background-color: #FFF;
+  width: 282px;
+  height: 204px;
+}
+.list-circle {
+  font-size: 17px;
+  margin: 0 0 55 16px;
+}
+.list-circle li {margin-bottom: 30px;}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ul.small-list li {
+    margin-bottom: 3px;
+}

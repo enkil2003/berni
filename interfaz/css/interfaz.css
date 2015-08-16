@@ -22,8 +22,8 @@ body {
 body, html{
     height:100%; }
 
-article, aside, details, figcaption, 
-figure, footer, header, hgroup, main, 
+article, aside, details, figcaption,
+figure, footer, header, hgroup, main,
 nav, section, summary {
     display: block; }
 
@@ -68,26 +68,28 @@ img, textarea, iframe {
     max-width: 100%; }
 
 a{ color: #3B5998;
-    cursor:pointer; 
-    text-decoration:none; } 
+    cursor:pointer;
+    text-decoration:none; }
 a:hover, a:active {
     text-decoration: underline; }
 
 p {
     text-align: justify;
-    line-height: 24px; }
+    line-height: 25px;
+    font-size: 17px;
+}
 
 @media (max-width: 400px) {
     p {
-        text-align: left; } 
+        text-align: left; }
 }
 
 
-/* [Fonts] 
-=============================================================*/	
+/* [Fonts]
+=============================================================*/
 @font-face {
     font-family: 'OpenSans-ExtraBold';
-    src:url('../fonts/Open_Sans/OpenSans-ExtraBold.ttf') format('truetype'); } 
+    src:url('../fonts/Open_Sans/OpenSans-ExtraBold.ttf') format('truetype'); }
 
 @font-face {
     font-family: 'OpenSans-Bold';
@@ -104,13 +106,13 @@ p {
 
 /* Global class
 =============================================================*/
-.display-none { 
+.display-none {
     display:none !important; }
 
 .display-block {
     display: block !important; }
 
-.text-center { 
+.text-center {
     text-align:center; }
 
 .table {
@@ -141,7 +143,7 @@ p {
     -webkit-transition: all 0.4s ease 0s;
     -o-transition: all 0.4s ease 0s; }
 
-.cfix{ 
+.cfix{
     *zoom: 1; }
 
 .cfix:before, .cfix:after{
@@ -164,7 +166,7 @@ p {
     list-style-type:disc;
     margin-left: 30px; }
 
-/* Layout 
+/* Layout
 =============================================================*/
 #wrapper {
     width: 100%;
@@ -249,7 +251,7 @@ p {
 
 @media (max-width: 500px) {
     #inner {
-        padding: 0; } 
+        padding: 0; }
     #button-top-page {
         display: none; }
 }
@@ -352,28 +354,28 @@ header{
     float: right;
     position: relative; }
 
-#nube1{ 
-    z-index: 5;  
-    position: absolute; 
-    top: 70px; 
+#nube1{
+    z-index: 5;
+    position: absolute;
+    top: 70px;
     right: 0;
-    width: 47px; 
+    width: 47px;
     display: block; }
 
-#nube2{ 
-    z-index: 10; 
-    position: absolute; 
-    top: 80px; 
+#nube2{
+    z-index: 10;
+    position: absolute;
+    top: 80px;
     right: 0;
-    width: 97px; 
+    width: 97px;
     display: block; }
 
-#nube3{ 
-    z-index: 15; 
-    position: absolute; 
-    top: 25px; 
+#nube3{
+    z-index: 15;
+    position: absolute;
+    top: 25px;
     right: 0;
-    width: 146px; 
+    width: 146px;
     display: block; }
 
 /* HEADER => [SUBMENU] ===*/
@@ -401,7 +403,7 @@ header{
     position: relative;
     display: none;
     box-shadow: 0px 1px 2px #444;
-    border-radius:0 0 3px 3px; 
+    border-radius:0 0 3px 3px;
     background: #6d5c85; }
 
 .menu .submenu {
@@ -415,7 +417,7 @@ header{
 
 @media (max-width: 930px) {
     #right-logo {
-        display: none; } 
+        display: none; }
     #left-logo {
         width: 100%;
         text-align: center; }
@@ -514,7 +516,7 @@ aside {
 
 @media (min-width: 801px) {
     #wrapp-content{
-        padding-bottom: inherit !important; } 
+        padding-bottom: inherit !important; }
 }
 
 @media (max-width: 800px) {
@@ -536,7 +538,7 @@ aside {
     #wrapp-content {
         padding-top: 23px;
         padding-left: 23px;
-        padding-right: 23px; } 
+        padding-right: 23px; }
 }
 
 /* Footer
@@ -566,12 +568,12 @@ footer figcaption {
     footer figcaption {
         height: 25px;
         margin-top: -25px;
-        font-size: 10px; } 
+        font-size: 10px; }
 }
 
 @media (max-width: 380px) {
     footer figcaption {
-        font-size: 8px; } 
+        font-size: 8px; }
 }
 
 
@@ -724,7 +726,7 @@ footer figcaption {
     display: inline-block; }
 
 #right-bottom-gallery a i{
-    color: #222; 
+    color: #222;
     font-size: 20px; }
 
 #left-bottom-gallery p {
@@ -841,7 +843,7 @@ footer figcaption {
     position: absolute;
     width: 100%;
     height: 100%;
-    opacity: 0; 
+    opacity: 0;
     left: 0;
     background: rgba(0,0,0,0.6); }
 
