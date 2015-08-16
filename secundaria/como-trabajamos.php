@@ -1,4 +1,4 @@
-<?php 
+<?php
 // Functions of the website
 include '../interfaz/functions.php';
 // Seo || title || subtitle =>
@@ -33,15 +33,30 @@ $active = 2; ?>
 
                                             <p>Empezamos planteando algunas instancias y algunas categorías particulares de las unidades trabajadas  que pueden recuperarse con interés para profundizar algunas de las ideas, los conceptos y los análisis de las lecturas en torno de la temática seleccionada.  Ejemplos de temáticas trabajadas en los foros son: Problemas ambientales,  Cambios culturales en los períodos de entre guerras, Globalización y ciber culturas, la evolución industrial, fuentes de energía y recursos naturales, etc.</p>
                                         </section>
+<div class="imageHolder">
+    <img src="" width="282px" height="204px"/>
+    <img src="" width="282px" height="204px"/>
+</div>
                                         <section>
                                             <h2>Experiencias directas (laboratorio, museos, paseos)</h2>
                                             <p>Existen proyectos de trabajo semanal, mensual, anual, con los adolescentes, de formación docente y con los padres en experiencias directas.</p>
                                             <p>El ambiente y los espacios son seleccionados para motivar  y  evocar en los estudiantes la curiosidad acerca del mundo “más allá de la escuela”. Así se conectan con profesionales que nos visitan, museos, muestras, casa de las artes, safari fotográfico y paseos para ampliar el universo cultural y que “el aula salga al mundo”.</p>
                                         </section>
+<div class="imageHolder">
+    <img src="" width="282px" height="204px"/>
+    <img src="" width="282px" height="204px"/>
+</div>
                                         <section>
                                             <h2>Deportes</h2>
                                             <p>El proyecto del área promueve diversas experiencias que contribuyen al conocimiento del manejo del cuerpo, del espacio y de sus propias posibilidades de movimiento para el mejoramiento de la calidad de vida de los jóvenes. El trabajo en equipo y los juegos reglados los ayudan a aceptar pautas y contribuyen al desarrollo de aptitudes para una buena convivencia.</p>
-                                            <ul class="list-circle">
+
+<div class="imageHolder">
+    <img src="" width="282px" height="204px"/>
+    <img src="" width="282px" height="204px"/>
+</div>
+
+
+                                            <ul class="list-circle small-list">
                                                 <li>Deportes de equipo (handball, voley, fútbol)</li>
                                                 <li>Deportes de equipo con entrenamiento semanal (hockey/ volley ball: mujeres/ rugby y fútbol: varones)</li>
                                                 <li>Destrezas sobre  colchoneta</li>
@@ -56,6 +71,10 @@ $active = 2; ?>
                                             <h2>REMO Y CANOTAJE</h2>
                                             <p>Dentro de nuestro programa de Educación Física, los chicos realizan actividades físicas y de aprendizaje de este deporte  en el medio acuático. Con el mismo equipo docente que los acompaña en el resto de las actividades deportivas, se realiza un seguimiento y evaluación continuos de la adquisición de las habilidades náuticas.</p>
                                         </section>
+<div class="imageHolder">
+    <img src="" width="282px" height="204px"/>
+    <img src="" width="282px" height="204px"/>
+</div>
                                         <section>
                                             <h2>VIDA EN LA NATURALEZA</h2>
                                             <p>Actividades de aventura y extensión deportiva</p>
@@ -67,7 +86,10 @@ $active = 2; ?>
                                             <p>Durante las jornadas previas y en el territorio donde se realiza el campamento los chicos realizan estudios del medio, actividades inter y transdisciplinarias, intercambios, charlas, visitas, juegos y ejercicios de comunicación.</p>
                                         </section>
                                         <section>
-                                            <h2>ITINERARIO DEL CICLO INICIAL DE LA ESCUELA SECUNDARIA</h2>
+<div class="imageHolder">
+    <img src="" width="282px" height="204px"/>
+    <img src="" width="282px" height="204px"/>
+</div>
                                         </section>
                                     </article><!-- END: dinamic => [CONTENT] -->
                                 </div>

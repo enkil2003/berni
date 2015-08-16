@@ -146,10 +146,10 @@ margin: 27px 0;
 font-size: 18px;
 font-weight: bold;
 }
-#filosofia .imageHolder {
+.imageHolder {
     margin-top: 33px;
 }
-#filosofia .imageHolder img {
+.imageHolder img {
   background-color: #FFF;
   width: 282px;
   height: 204px;
