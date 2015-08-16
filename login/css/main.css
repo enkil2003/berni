@@ -1,0 +1,231 @@
+/* ========================
+sillyhats.tv,
+Version => 2.0,
+Creado => 19/01/15
+======================== */
+
+* {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    vertical-align:baseline;
+    background:transparent;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box; }
+
+body {
+    font-family:sans-serif;
+    font-size:14px; }
+
+body, html{
+    height:100%; }
+
+article, aside, details, figcaption, 
+figure, footer, header, hgroup, main, 
+nav, section, summary {
+    display: block; }
+
+audio, canvas, progress, video {
+    display: inline-block;
+    vertical-align: baseline; }
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0; }
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    height: auto; }
+
+input[type="search"] {
+    -webkit-appearance: textfield; }
+
+audio:not([controls]) {
+    display: none;
+    height: 0; }
+
+ol, ul {
+    list-style: none; }
+
+blockquote, q {
+    quotes: none; }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0; }
+
+button {
+    overflow: visible;
+    cursor: pointer; }
+
+button, select {
+    text-transform: none; }
+
+img, textarea, iframe {
+    max-width: 100%; }
+
+a{ 
+    color: white;
+    cursor:pointer; 
+    text-decoration:none; } 
+a:hover, a:active { }
+
+/* Layout 
+=============================================================*/
+#wrapper {
+    background-image: url(../img/plataforma/salon.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    height: 100%; }
+
+/* Global class
+=============================================================*/
+.display-none { 
+    display:none !important; }
+
+.display-block {
+    display: block !important; }
+
+.text-center { 
+    text-align:center; }
+
+.table {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    height: 100%; }
+
+.table-cell {
+    display: table-cell;
+    vertical-align: middle; }
+
+.vertical-align-middle {
+    vertical-align: middle;
+    display: inline-block; }
+
+.vertical-align-top {
+    vertical-align: top;
+    display: inline-block; }
+
+.vertical-align-bottom {
+    vertical-align: bottom;
+    display: inline-block; }
+
+.transition, a, button{
+    transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s; }
+
+.cfix{ 
+    *zoom: 1; }
+
+.cfix:before, .cfix:after{
+    display:table;
+    content: ""; }
+
+.cfix:after{
+    clear: both; }
+
+@font-face {
+    font-family: 'OpenSans-Light';
+    src:url('../../interfaz/fonts/Open_Sans/OpenSans-Light.ttf') format('truetype'); }
+
+
+/* ALL
+=============================================================*/
+#login-form {
+    margin: 0 auto;
+    width: 360px;
+    cursor:move;
+    background: rgba(255,255,255,0.8); }
+
+#logo {
+    margin: 20px 0; }
+
+#contenido-login {
+    position: relative;
+    display: inline-block;
+    text-align: center; }
+
+.input {
+    margin-bottom: 20px;
+    border-radius: 3px;
+    box-shadow: 0 2px 3px #222;
+    padding: 10px;
+    background: rgba(255,255,255,0.7);}
+
+.input i {
+    font-size: 20px;
+    color: #444; }
+
+.input input {
+    padding: 5px;
+    font-size: 16px;
+    color: #222; }
+
+.purple {
+    background-color: #9B59B6;
+    box-shadow: 0px 5px 0px 0px #82409D; }
+.purple:hover {
+    background-color: #B573D0 !important; }
+
+.btn {
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    margin: 20px 0;
+    letter-spacing: 2px;
+    text-decoration: none;
+    position: relative;
+    font-family: 'OpenSans-Light';
+    display: inline-block; }
+
+
+#password-lost {
+    display: block;
+    color: #222;
+    text-align: right; }
+
+#password-lost:hover {
+    color: #B573D0; }
+
+#back-button {
+    margin: 20px 0 0;
+    display: block;
+    text-align: center; }
+
+#back-button a:hover {
+    text-decoration: underline; }
+
+.response {
+    margin:0 0 20px 0;
+    padding: 15px;
+    background-color: #333;
+    border-color: #555;
+    font-size: 14px;
+    color: white; }
+
+.response i {
+    font-size: 16px; }
+
+
+
+
+
+
+
+
+
+
+
+
+

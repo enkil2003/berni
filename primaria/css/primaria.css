@@ -1,0 +1,165 @@
+/* ========================
+sillyhats.tv,
+Version => 2.0,
+Creado => 19/01/15
+======================== */
+
+/*Layout
+=====================*/
+html, body {
+    background: url(../img/icons/background-primaria.png) repeat #C97524; }
+
+#stage,#left-gallery,#right-gallery,#bottom-gallery {
+    background: #C97524 !important; }
+
+#wrapp-content:before {
+    content: '';
+    height: 42px;
+    width: 42px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(../img/icons/esquina.png) no-repeat center; }
+
+.gallery-4 a{
+    float: left;
+    font-size: 0;
+    background: white;
+    border-radius: 2px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.4);
+    padding: 3px;
+    margin-left: 1%;
+    width: 24.25%; }
+
+.gallery-4 a:first-child {
+    margin-left: 0; }
+
+.gallery-4 a img {
+    display: block;
+    width: 100%; }
+
+#list-navigation li {
+    width: 20%; }
+
+#list-navigation li a {
+    font-size: 12px !important; }
+
+.color-purple {
+    color: #8770a8; }
+
+.button-pdf {
+    float: right; }
+
+/* Typography
+=============================================================*/
+h1{
+    font-size: 32px;
+    font-family: 'OpenSans-Bold';
+    text-shadow: 1px 1px 0 whitesmoke;
+    font-weight: normal;
+    color: #C97524; }
+h2{
+    font-family: 'OpenSans-Bold';
+    color: #C97524;
+    font-weight: normal;
+    font-size: 20px; }
+h3{
+    font-family: 'OpenSans-Bold';
+    font-weight: normal;
+    color: #C97524;
+    font-size: 16px; }
+h4{
+    font-family: 'OpenSans-Bold';
+    font-weight: normal;
+    font-size: 15px;
+    color: #222; }
+h5{}
+h6{}
+
+/* Equipo Directivo
+=====================*/
+#equipo-directivo h2{
+    display: inline-block;
+    color: white;
+    font-family: 'OpenSans-Light';
+    font-weight: normal;
+    background: #C97524;
+    padding: 7px 3px 7px 20px;
+    width: 70%;
+    position: relative;
+    margin: 20px 0;
+    text-align: left; }
+
+#equipo-directivo h2:after {
+    content: "";
+    position: absolute;
+    right: -37px;
+    width: 0px;
+    height: 0px;
+    border-top: 37px solid transparent;
+    border-bottom: 0px solid transparent;
+    border-left: 37px solid #C97524;
+    top: 0; }
+
+#equipo-directivo p {
+    text-align: left; }
+
+/* Acceso padres
+=====================*/
+#acceso-padres section {
+    width: 50%; }
+
+#acceso-padres label {
+    color: #C97524; }
+
+#lost-form {
+    display: none; }
+
+#lost-button-toggle {
+    display: block; }
+
+#acceso-padres input[type="text"], #acceso-padres input[type="email"], #acceso-padres input[type="password"] {
+    width: 100%;
+    margin: 10px 0;
+    font-family: 'OpenSans-Light';
+    font-weight: normal;
+    color: #666;
+    font-size: 17px;
+    border: 2px solid #C97524; 
+    padding: 2px 7px 5px; }
+
+#login-button, #lost-button {
+    width: 75px;
+    background: url(../img/icons/enviar.png) no-repeat center;
+    height: 37px; }
+
+#login-button:hover, #lost-button:hover {
+    background: url(../img/icons/enviar_hover.png) no-repeat center; }
+
+/* Slider => [FOTOS & VIDEO]
+=====================*/
+#contenido-slider .bx-has-controls-direction .bx-prev:after, #contenido-slider .bx-has-controls-direction .bx-next:after {
+    color: #C97524; }
+
+.title-text-slider {
+    color: #C97524; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

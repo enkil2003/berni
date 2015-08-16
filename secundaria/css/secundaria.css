@@ -1,0 +1,150 @@
+/* ========================
+sillyhats.tv,
+Version => 2.0,
+Creado => 19/01/15
+======================== */
+
+/*Layout
+=====================*/
+html, body {
+    background: url(../img/icons/background-secundaria.png) repeat #A61D37; }
+
+#stage,#left-gallery,#right-gallery,#bottom-gallery {
+    background: #A61D37 !important; }
+
+#list-navigation li a {
+    font-size: 12px !important; }
+
+#wrapp-content:before {
+    content: '';
+    height: 42px;
+    width: 42px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(../img/icons/esquina.png) no-repeat center; }
+
+#list-navigation li {
+    width: 20%; }
+
+#list-navigation .submenu li {
+    width: 100% !important; }
+
+.button-pdf {
+    float: right; }
+
+/* Typography
+=============================================================*/
+h1{
+    font-size: 32px;
+    font-family: 'OpenSans-Bold';
+    font-weight: normal;
+    text-shadow: 1px 1px 0 whitesmoke;
+    color: #A61D37; }
+h2{
+    margin: 20px 0;
+    font-family: 'OpenSans-Bold';
+    color: #A61D37;
+    font-weight: normal;
+    font-size: 20px; }
+h3{
+    font-family: 'OpenSans-Bold';
+    font-weight: normal;
+    color:#A61D37;
+    font-size: 16px; }
+h4{
+    font-family: 'OpenSans-Bold';
+    font-size: 15px;
+    font-weight: normal;
+    color: #222; }
+h5{}
+h6{}
+
+/* Equipo Directivo
+=====================*/
+#equipo-directivo h2{
+    display: inline-block;
+    color: white;
+    font-family: 'OpenSans-Light';
+    font-weight: normal;
+    background: #A61D37;
+    padding: 7px 3px 7px 20px;
+    width: 70%;
+    position: relative;
+    margin: 20px 0;
+    text-align: left; }
+
+#equipo-directivo h2:after {
+    content: "";
+    position: absolute;
+    right: -37px;
+    width: 0px;
+    height: 0px;
+    border-top: 37px solid transparent;
+    border-bottom: 0px solid transparent;
+    border-left: 37px solid #A61D37;
+    top: 0; }
+
+#equipo-directivo p {
+    text-align: left; }
+
+/* Acceso padres
+=====================*/
+#acceso-padres section {
+    width: 50%; }
+
+#acceso-padres label {
+    color: #A61D37; }
+
+#lost-form {
+    display: none; }
+
+#lost-button-toggle {
+    display: block; }
+
+#acceso-padres input[type="text"], #acceso-padres input[type="email"], #acceso-padres input[type="password"] {
+    width: 100%;
+    margin: 10px 0;
+    font-family: 'OpenSans-Light';
+    font-weight: normal;
+    color: #666;
+    font-size: 17px;
+    border: 2px solid #A61D37; 
+    padding: 2px 7px 5px; }
+
+#login-button, #lost-button {
+    width: 75px;
+    background: url(../img/icons/enviar.png) no-repeat center;
+    height: 37px; }
+
+#login-button:hover, #lost-button:hover {
+    background: url(../img/icons/enviar_hover.png) no-repeat center; }
+
+
+/* Slider => [FOTOS & VIDEO]
+=====================*/
+#contenido-slider .bx-has-controls-direction .bx-prev:after, #contenido-slider .bx-has-controls-direction .bx-next:after {
+    color:#A61D37; }
+
+.title-text-slider {
+    color:#A61D37; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
