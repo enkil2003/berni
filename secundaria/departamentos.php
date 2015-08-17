@@ -1,4 +1,4 @@
-<?php 
+<?php
 // Functions of the website
 include '../interfaz/functions.php';
 // Seo || title || subtitle =>
@@ -27,15 +27,15 @@ $active = 3; ?>
                                             <section>
                                                 <h3 class="margin-bottom">CASTELLANO</h3>
                                                 <p>Las Prácticas del Lenguaje, la apropiación de una lengua extranjera y su gramática y  la comunicación  en contextos diversos entienden a la oralidad y la escritura como experiencias valiosas que los jóvenes pueden desarrollar en el Colegio Secundario. En las clases vinculadas al <b>Departamento de Lenguajes</b>, los estudiantes logran una participación como lectores activos de textos literarios y no literarios, atendiendo a diversos propósitos:</p>
-                                                <ul class="list-circle margin-top margin-bottom">                                    
+                                                <ul class="list-circle margin-top margin-bottom small-list small-list">
                                                     <li>como escritores competentes de una amplia variedad de textos de circulación social,</li>
                                                     <li>en  prácticas de lenguaje oral con diversos propósitos y para distintos destinatarios.</li>
-                                                    <li>Atendiendo  a los contenidos de la de cultura, la Imagen como productora de sentidos y 
+                                                    <li>Atendiendo  a los contenidos de la de cultura, la Imagen como productora de sentidos y
                                                         representación cultural.
                                                     </li>
                                                 </ul>
                                                 <p>Para ello, la enseñanza se apoya en:</p>
-                                                <ul class="list-circle margin-top margin-bottom">                                       
+                                                <ul class="list-circle margin-top margin-bottom small-list">
                                                     <li>Novelas filosóficas</li>
                                                     <li>Textos clásicos</li>
                                                     <li>La construcción de la Imagen fotográfica.</li>
@@ -129,37 +129,37 @@ $active = 3; ?>
                                         </section>
                                         <section id="informatica">
                                             <h2 class="margin-bottom">Informatica</h2>
-                                            <p class="margin-bottom"><b>Introducirel modelo de “Pensamiento computacional” como una forma de 
+                                            <p class="margin-bottom"><b>Introducirel modelo de “Pensamiento computacional” como una forma de
                                                 preparar problemas del mundo real para una representación computacional.</b>
                                             </p>
-                                            <p class="margin-bottom">La sociedad actual es la más conectada de todos los tiempos, el hecho de estar 
-                                                conectados, no implica estar comunicados y en muchos de los casos se ha 
+                                            <p class="margin-bottom">La sociedad actual es la más conectada de todos los tiempos, el hecho de estar
+                                                conectados, no implica estar comunicados y en muchos de los casos se ha
                                                 confundido conexión con comunicación.
                                             </p>
-                                            <p class="margin-bottom">La educación secundaria debe enseñar y aprender dentro de los nuevos 
-                                                escenarios sociales, culturales y tecnológicos que experimentan a diario los 
+                                            <p class="margin-bottom">La educación secundaria debe enseñar y aprender dentro de los nuevos
+                                                escenarios sociales, culturales y tecnológicos que experimentan a diario los
                                                 jóvenes, habilitando nuevas respuestas a sus problemáticas.
                                             </p>
-                                            <p class="margin-bottom">Ofreciendo a los estudiantes recursos comunicativos, tecnológicos y sociales, para 
+                                            <p class="margin-bottom">Ofreciendo a los estudiantes recursos comunicativos, tecnológicos y sociales, para
                                                 agregar valor a las estrategias de enseñanza y a los procesos de aprendizaje.
                                             </p>
-                                            <p class="margin-bottom">La informática como los medios de comunicación forman parte de la cultura que 
+                                            <p class="margin-bottom">La informática como los medios de comunicación forman parte de la cultura que
                                                 nos rodea, están presentes en casi todos nuestros ámbitos y debemos convivir con
-                                                ellas, ya que amplían nuestras capacidades físicas, mentales y las posibilidades de 
+                                                ellas, ya que amplían nuestras capacidades físicas, mentales y las posibilidades de
                                                 desarrollo social.
                                             </p>
-                                            <p class="margin-bottom">La materia tiene como finalidad desarrollar un espacio multidimensional que 
-                                                proponga formas colaborativas de acceso al conocimiento “superabundancia 
-                                                de información / comunicarse y trabajar en red” donde se construyan ideas, 
+                                            <p class="margin-bottom">La materia tiene como finalidad desarrollar un espacio multidimensional que
+                                                proponga formas colaborativas de acceso al conocimiento “superabundancia
+                                                de información / comunicarse y trabajar en red” donde se construyan ideas,
                                                 conceptos e interpretaciones novedosas.
                                             </p>
-                                            <p class="margin-bottom">Nuevas experiencias pedagógicas, fortaleciendo la identidad, la ciudadanía y la 
-                                                preparación para el mundo adulto, la inclusión en la escuela hace posible la 
+                                            <p class="margin-bottom">Nuevas experiencias pedagógicas, fortaleciendo la identidad, la ciudadanía y la
+                                                preparación para el mundo adulto, la inclusión en la escuela hace posible la
                                                 formación de sujetos libres para expresarse, actuar y transformar la sociedad.
                                             </p>
-                                            <p class="margin-bottom">El compromiso y valoración en clase, sus necesidades, intereses, experiencias, 
-                                                contextos y convicciones, deberá ser el centro de acción de la escuela, es 
-                                                indispensable “participar” y “actuar” en la conflictividad que implican las relaciones 
+                                            <p class="margin-bottom">El compromiso y valoración en clase, sus necesidades, intereses, experiencias,
+                                                contextos y convicciones, deberá ser el centro de acción de la escuela, es
+                                                indispensable “participar” y “actuar” en la conflictividad que implican las relaciones
                                                 sociales.
                                             </p>
                                             <div class="cfix">

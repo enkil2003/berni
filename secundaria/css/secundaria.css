@@ -130,36 +130,3 @@ h6{}
 
 .title-text-slider {
     color:#A61D37; }
-
-i {
-color: #A61D37;
-font-weight: bold;
-}
-
-h1 {
- margin-bottom: 8px;
-}
-h2 {
-margin: 27px 0;
-}
-.higher {
-font-size: 18px;
-font-weight: bold;
-}
-.imageHolder {
-    margin-top: 33px;
-}
-.imageHolder img {
-  background-color: #FFF;
-  width: 282px;
-  height: 204px;
-}
-.list-circle {
-  font-size: 17px;
-  margin: 0 0 55 16px;
-}
-.list-circle li {margin-bottom: 30px;}
-
-ul.small-list li {
-    margin-bottom: 3px;
-}
