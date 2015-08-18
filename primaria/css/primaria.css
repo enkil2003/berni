@@ -21,6 +21,7 @@ html, body {
     left: 0;
     background: url(../img/icons/esquina.png) no-repeat center; }
 
+.gallery-3 a,
 .gallery-4 a{
     float: left;
     font-size: 0;
@@ -31,9 +32,14 @@ html, body {
     margin-left: 1%;
     width: 24.25%; }
 
+.gallery-3 a{
+    width: 32.25%; }
+
+.gallery-3 a:first-child,
 .gallery-4 a:first-child {
     margin-left: 0; }
 
+.gallery-3 a img,
 .gallery-4 a img {
     display: block;
     width: 100%; }
@@ -125,7 +131,7 @@ h6{}
     font-weight: normal;
     color: #666;
     font-size: 17px;
-    border: 2px solid #C97524; 
+    border: 2px solid #C97524;
     padding: 2px 7px 5px; }
 
 #login-button, #lost-button {

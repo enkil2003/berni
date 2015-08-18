@@ -42,7 +42,7 @@ $active = 1; ?>
                                             <li>La Participación</li>
                                             <li>Valoración de la diversidad y la complejidad</li>
                                         </ul>
-                                        <figure class="gallery-4 gallery-parent cfix">
+                                        <figure class="gallery-3 gallery-parent cfix">
                                             <a href="img/plataforma/1-1.jpg">
                                                 <img src="img/plataforma/1-1.jpg" alt="" title="Titulo 1">
                                             </a>
