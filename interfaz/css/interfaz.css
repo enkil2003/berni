@@ -912,3 +912,7 @@ ul.small-list li {
 .gallery-parent {
     margin: 30px 0;
 }
+
+p {
+    margin-bottom: 1em;
+}
