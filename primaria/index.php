@@ -24,9 +24,13 @@ $active = 1; ?>
                                         <p class="margin-bottom">En 2002 comenzó el desafío de continuar el proyecto innovador del Jardín Fabulinus en  una Escuela Primaria. Así el Colegio Antonio Berni,  nace con el compromiso de dar cauce a la creación de una educación participativa que enseñe a aprender con placer y amor hacia el conocimiento, a través del arte y del juego. Nuestro proyecto educativo conlleva la idea de innovar en la Educación Formal.
                                         </p>
 
-<div class="imageHolder">
-    <img src="img/fotos/Primaria54ef50bc87eea6.48111171_1424969916_4dcf435435894a4d0972046fc566af76.jpg" style="width: 353px; height: 271px"/>
-    <img src="img/fotos/Primaria54ef50bc87eea6.48111171_1424969916_4dcf435435894a4d0972046fc566af76.jpg" style="width: 213px; height: 271px"/>
+<div class="imageHolder gallery-parent">
+    <a href="img/fotos/Primaria54ef50bc87eea6.48111171_1424969916_4dcf435435894a4d0972046fc566af76.jpg">
+      <img src="img/fotos/Primaria54ef50bc87eea6.48111171_1424969916_4dcf435435894a4d0972046fc566af76.jpg" title="Un titulo" style="width: 353px; height: 271px"/>
+    </a>
+    <a href="img/fotos/Primaria54ef50bc87eea6.48111171_1424969916_4dcf435435894a4d0972046fc566af76.jpg">
+      <img src="img/fotos/Primaria54ef50bc87eea6.48111171_1424969916_4dcf435435894a4d0972046fc566af76.jpg" title="Otro titulo" style="width: 213px; height: 271px"/>
+    </a>
 </div>
 
                                         <p>Tanto el Colegio Antonio Berni como el Jardín Fabulinus se inspiran en la

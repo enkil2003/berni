@@ -21,28 +21,31 @@ html, body {
     left: 0;
     background: url(../img/icons/esquina.png) no-repeat center; }
 
+.gallery-2 a,
 .gallery-3 a,
 .gallery-4 a{
     float: left;
     font-size: 0;
-    background: white;
-    border-radius: 2px;
-    box-shadow: 0 0 3px rgba(0,0,0,0.4);
-    padding: 3px;
     margin-left: 1%;
     width: 24.25%; }
 
 .gallery-3 a{
     width: 32.25%; }
 
+.gallery-2 a:first-child,
 .gallery-3 a:first-child,
 .gallery-4 a:first-child {
     margin-left: 0; }
 
+.gallery-2 a img,
 .gallery-3 a img,
 .gallery-4 a img {
     display: block;
     width: 100%; }
+
+.gallery-2 a img {
+    width: 400px;
+}
 
 #list-navigation li {
     width: 20%; }
