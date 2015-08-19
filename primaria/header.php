@@ -40,11 +40,15 @@
                 <img class="flecha-nav" src="../interfaz/img/icons/mark.png" alt="Arrow-icon" title="Arrow" />
                 <div class="submenu"><!-- Submenu -->
                     <ul class="navigation-submenu">
-                        <li><a href="#huerta"><span>Huerta</span></a></li>
-                        <li><a href="#arte-sociedad"><span>Arte y sociedad</span></a></li>
-                        <li><a href="#talleres-instrumentos"><span>Instrumentos</span></a></li>
-                        <li><a href="#orquesta"><span>Orquesta</span></a></li>
-                        <li><a href="#obras-arte-producidas"><span>Obras arte producidas</span></a></li>
+                        <li><a href="#titeres"><span>Titeres</span></a></li>
+                        <li><a href="#Juguetes-de-madera"><span>Juguetes de madera</span></a></li>
+                        <li><a href="#Filosofia-para-ninos"><span>Filosofía para niños</span></a></li>
+                        <li><a href="#Ajedrez"><span>Ajedrez</span></a></li>
+                        <li><a href="#Carpinteria"><span>Carpintería</span></a></li>
+                        <li><a href="#Fotografia"><span>Fotografía</span></a></li>
+                        <li><a href="#Iniciacion-deportiva"><span>Iniciación Deportiva</span></a></li>
+                        <li><a href="#Ceramica"><span>Cerámica</span></a></li>
+                        <li><a href="#Orquesta"><span>Orquesta</span></a></li>
                     </ul>
                 </div><!-- END: submenu -->
             </li>
@@ -54,15 +58,15 @@
                 <img class="flecha-nav" src="../interfaz/img/icons/mark.png" alt="Arrow-icon" title="Arrow" />
                 <div class="submenu"><!-- Submenu -->
                     <ul class="navigation-submenu">
+                        <li><a href="#flechados"><span>Flechados por los libros</span></a></li>
                         <li><a href="#artes-sonoras"><span>Artes sonoras</span></a></li>
-                        <li><a href="#ludoteca"><span>Ludoteca</span></a></li>
-                        <li><a href="#espacio-padres"><span>Espacio de reflexión para padres</span></a></li>
-                        <li><a href="#natacion"><span>Natación</span></a></li>
-                        <li><a href="#campamentos-viajes"><span>Campamentos y viajes</span></a></li>
                         <li><a href="#cafe-literario"><span>Café literario</span></a></li>
                         <li><a href="#semana-berni"><span>Semana berni</span></a></li>
-                        <li><a href="#semana-libro"><span>Semana del libro</span></a></li>
-                        <li><a href="#territorios-juego"><span>Territorios de juego</span></a></li>
+                        <li><a href="#natacion"><span>Natación</span></a></li>
+                        <li><a href="#campamentos-viajes"><span>Campamentos y viajes</span></a></li>
+                        <li><a href="#territorios"><span>Territorios de juego</span></a></li>
+                        <li><a href="#Feria"><span>Feria de las cooperativas</span></a></li>
+                        <li><a href="#espacio-padres"><span>Espacio de reflexión para padres</span></a></li>
                     </ul>
                 </div><!-- END: submenu -->
             </li>
